@@ -18,7 +18,7 @@ Modules:-
 With URL you will visit home page of institute and can view 3 options for login that is Faculty Login, Student Login and Admin Login
   
 
-* Admin Module
+** Admin Module
 With admin Login option on Home Page, we can enter in this module, by entering correct username and password.
 It contains following sub-modules:-
 * Home:-
@@ -49,7 +49,7 @@ Here with Course ID which is given in course registration form, admin can fetch 
 * Sign out
 With this you will be redirected to home page, and will get sign out from your account.
 
-* Faculty Module
+** Faculty Module
 With Faculty Login option on Home Page, we can enter in this module, by entering correct username and password.
 It contains following sub-modules:-
 * Home:-
@@ -69,7 +69,8 @@ Here Faculty can select particular student and can send important message to him
 
 * Sign out
 With this you will be redirected to home page, and will get sign out from your account.
-Student  Module
+
+** Student  Module
 With Student Login option on Home Page, we can enter in this module, by entering correct username and password.
 It contains following sub-modules:-
 * Home:-
@@ -110,4 +111,23 @@ Admin Module
 ![3](https://github.com/saniya44/Institute-Management-System/assets/65069383/a1d10e97-a45c-417a-82e8-f8f82bc70cc8)
 ![2](https://github.com/saniya44/Institute-Management-System/assets/65069383/15a78834-b8fc-471e-b3a0-c26372411d7a)
 ![1](https://github.com/saniya44/Institute-Management-System/assets/65069383/ceabdf4f-dab6-406a-9745-db87effa6d08)
+
+
+Faculty Module
+![11](https://github.com/saniya44/Institute-Management-System/assets/65069383/28a1b87c-1e85-49b1-b941-d596a56029f3)
+![10](https://github.com/saniya44/Institute-Management-System/assets/65069383/908caead-6213-49a2-9f2e-93f577de84b4)
+![8](https://github.com/saniya44/Institute-Management-System/assets/65069383/7df70a27-a4c8-4227-95e9-c02a76a50ea1)
+![7](https://github.com/saniya44/Institute-Management-System/assets/65069383/b215d990-bab7-4839-83f7-c8c04a6de19f)
+![6](https://github.com/saniya44/Institute-Management-System/assets/65069383/505cacb7-dd11-4fdc-b54d-626259c5dce0)
+![5](https://github.com/saniya44/Institute-Management-System/assets/65069383/c31a15b9-0cac-4770-809a-6b259ece6cbe)
+![3](https://github.com/saniya44/Institute-Management-System/assets/65069383/799a9c3d-d794-45f5-9619-eed444fb8363)
+![1](https://github.com/saniya44/Institute-Management-System/assets/65069383/09cd5bc6-d007-4992-bf3c-b812831d9388)
+
+
+Student Module![2](https://github.com/saniya44/Institute-Management-System/assets/65069383/c4c3b953-62c3-4470-8987-f5ea497bbde7)
+![1](https://github.com/saniya44/Institute-Management-System/assets/65069383/7c0d272d-d966-470c-a3d0-e1b8cb1e8d43)
+![7](https://github.com/saniya44/Institute-Management-System/assets/65069383/c57918ce-0f64-4a3f-ab88-d59e02859671)
+![5](https://github.com/saniya44/Institute-Management-System/assets/65069383/9ff71026-5817-4f4a-90a2-d6a269c92d11)
+![8](https://github.com/saniya44/Institute-Management-System/assets/65069383/e789d0af-27ab-4a51-b861-ceabc01167eb)![9](https://github.com/saniya44/Institute-Management-System/assets/65069383/c94ab7a7-1da5-42a2-ba29-48800d58e4d9)
+![3](https://github.com/saniya44/Institute-Management-System/assets/65069383/7c97fa20-0e06-4abc-b48a-47ad7085f553)
 
