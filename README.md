@@ -102,7 +102,12 @@ Web-Server:- GlassFish Server 5.1.0
 Development Environment:- Apache NetBeans IDE 12.0
 Hardware:- Windows 10 64 bit, RAM:-8GB, Intel CORE i5 8th Gen processor. 
 
+
+
+
 Home
+
+
 <img width="952" alt="Screenshot 2023-09-16 000243" src="https://github.com/saniya44/Institute-Management-System/assets/65069383/ba4da7cd-53ba-4eac-ab6f-346bea83195e">
 
 
