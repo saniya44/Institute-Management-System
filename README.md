@@ -100,3 +100,14 @@ Database at backend:- mySQL
 Web-Server:- GlassFish Server 5.1.0
 Development Environment:- Apache NetBeans IDE 12.0
 Hardware:- Windows 10 64 bit, RAM:-8GB, Intel CORE i5 8th Gen processor. 
+
+Admin Module
+![13](https://github.com/saniya44/Institute-Management-System/assets/65069383/eca24083-a791-48ec-aba7-01aa28596c64)
+![10](https://github.com/saniya44/Institute-Management-System/assets/65069383/e9db01eb-f273-4d56-9ff6-6f0261e4fefa)
+
+![8](https://github.com/saniya44/Institute-Management-System/assets/65069383/7321b878-8515-4446-9da1-348128b25525)
+![4](https://github.com/saniya44/Institute-Management-System/assets/65069383/4208a5d0-7457-4016-b0ce-6230ddcef97b)
+![3](https://github.com/saniya44/Institute-Management-System/assets/65069383/a1d10e97-a45c-417a-82e8-f8f82bc70cc8)
+![2](https://github.com/saniya44/Institute-Management-System/assets/65069383/15a78834-b8fc-471e-b3a0-c26372411d7a)
+![1](https://github.com/saniya44/Institute-Management-System/assets/65069383/ceabdf4f-dab6-406a-9745-db87effa6d08)
+
