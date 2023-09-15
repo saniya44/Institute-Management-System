@@ -102,6 +102,10 @@ Web-Server:- GlassFish Server 5.1.0
 Development Environment:- Apache NetBeans IDE 12.0
 Hardware:- Windows 10 64 bit, RAM:-8GB, Intel CORE i5 8th Gen processor. 
 
+Home
+<img width="952" alt="Screenshot 2023-09-16 000243" src="https://github.com/saniya44/Institute-Management-System/assets/65069383/ba4da7cd-53ba-4eac-ab6f-346bea83195e">
+
+
 Admin Module
 ![13](https://github.com/saniya44/Institute-Management-System/assets/65069383/eca24083-a791-48ec-aba7-01aa28596c64)
 ![10](https://github.com/saniya44/Institute-Management-System/assets/65069383/e9db01eb-f273-4d56-9ff6-6f0261e4fefa)
@@ -128,6 +132,8 @@ Student Module![2](https://github.com/saniya44/Institute-Management-System/asset
 ![1](https://github.com/saniya44/Institute-Management-System/assets/65069383/7c0d272d-d966-470c-a3d0-e1b8cb1e8d43)
 ![7](https://github.com/saniya44/Institute-Management-System/assets/65069383/c57918ce-0f64-4a3f-ab88-d59e02859671)
 ![5](https://github.com/saniya44/Institute-Management-System/assets/65069383/9ff71026-5817-4f4a-90a2-d6a269c92d11)
-![8](https://github.com/saniya44/Institute-Management-System/assets/65069383/e789d0af-27ab-4a51-b861-ceabc01167eb)![9](https://github.com/saniya44/Institute-Management-System/assets/65069383/c94ab7a7-1da5-42a2-ba29-48800d58e4d9)
+![8](https://github.com/saniya44/Institute-Management-System/assets/65069383/e789d0af-27ab-4a51-b861-ceabc01167eb)
+![9](https://github.com/saniya44/Institute-Management-System/assets/65069383/c94ab7a7-1da5-42a2-ba29-48800d58e4d9)
+![4](https://github.com/saniya44/Institute-Management-System/assets/65069383/c4292365-dca8-4f56-bb2f-93d7347f0485)
 ![3](https://github.com/saniya44/Institute-Management-System/assets/65069383/7c97fa20-0e06-4abc-b48a-47ad7085f553)
 
